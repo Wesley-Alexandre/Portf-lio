@@ -23,11 +23,3 @@ No meu portfólio, você encontrará uma variedade de projetos, como:
 ## Como Navegar pelo Meu Portfólio
 
 Este repositório contém a versão online do meu portfólio. O site é simples, mas eficaz, apresentando os principais projetos com links para os respectivos repositórios no GitHub. O portfólio também está configurado com **HTML** e **CSS** de forma que é totalmente responsivo e funciona bem em dispositivos móveis.
-
-## Como Rodar o Portfólio Localmente
-
-Se você deseja rodar o meu portfólio localmente, basta seguir os seguintes passos:
-
-### 1. Clone o repositório
-```bash
-git clone https://github.com/Wesley-Alexandre/portifolio.git
